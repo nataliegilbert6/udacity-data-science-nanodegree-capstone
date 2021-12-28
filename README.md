@@ -17,6 +17,12 @@ For this project I was interested in conducting exploratory data analysis using 
 - What channels are most likely to lead customers to complete offers?
 - Are customers influenced by the minimum spend requirement of an offer, or even by the offer amount? Do either of these metrics affect the likelihood that they will use an offer?
 
+The datasets are the following: 
+
+- profile dataset — Rewards program users (17000 users x 5 fields)
+- portfolio dataset — Offers sent during 30-day test period (10 offers x 6 fields)
+- transcript dataset — Event log (306648 events x 4 fields)
+
 In addition to exploring the data, I trained four machine learning models to predict whether or not a customer will respond to an offer from Starbucks. I posted
 my findings via a blog post on Medium, which hopefully provides readers with useful insights into how data can help predict how people will respond to certain offers.
 
